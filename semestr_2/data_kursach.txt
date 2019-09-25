@@ -1,0 +1,7 @@
+6
+Green John Albertovich 8381 b 5000 4 4 5 4 5
+Petrov Ivan Igorevich 8301 b 5000 3 3 5 4 3
+Albu Michael Fedorovich 8381 b 10000 3 3 3 5 4
+Luzhkov Ivan Maximovich 8302 b 10000 5 5 5 5 5
+Zurabov Danila Olegovich 8381 b 4000 4 4 2 4 4
+Pushkin Alex Sergeevich 8302 b 5000 5 5 5 5 5

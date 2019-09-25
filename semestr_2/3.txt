@@ -1,0 +1,7 @@
+6
+Murmansk 51 300000
+Moscow 12 15000000
+Spb 100 5000000
+Severomorsk 51 51000
+Abakan 51 100000
+Zerovsk 100 45000

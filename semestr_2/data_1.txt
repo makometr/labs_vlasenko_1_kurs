@@ -1,0 +1,4 @@
+1 sas 4
+1 kek 10
+2 mda 5
+3 geg 6

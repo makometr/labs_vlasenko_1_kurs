@@ -1,0 +1,18 @@
+Region number: 12
+   Moscow 15000000
+
+Region number: 51
+   Abakan 100000
+   Murmansk 300000
+   Severomorsk 51000
+
+Region number: 100
+   Spb 5000000
+   Zerovsk 45000
+
+|----------------|
+| Reg |  People  |
+|   12|  15000000|
+|   51|    451000|
+|  100|   5045000|
+|----------------|

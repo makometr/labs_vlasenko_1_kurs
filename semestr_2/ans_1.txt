@@ -1,0 +1,13 @@
+
+	Parametres of processors
+Number of processors: 3
+Process ID:  1 Works:  2
+Process ID:  2 Works:  1
+Process ID:  3 Works:  1
+
+	 Table of times end
+   | ProcNum | Work-Id    | Work-Duration | Time-Ended |
+1) | 1       | sas        | 4             | 4          |
+2) | 1       | kek        | 10            | 14         |
+3) | 2       | mda        | 5             | 5          |
+4) | 3       | geg        | 6             | 6          |
